@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Battery_Collector",
+			"Path": "C:\\Users\\hp\\Desktop\\Batery_Collector\\Battery_Collector\\Source\\Battery_Collector.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Battery_CollectorEditor",
+			"Path": "C:\\Users\\hp\\Desktop\\Batery_Collector\\Battery_Collector\\Source\\Battery_CollectorEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
